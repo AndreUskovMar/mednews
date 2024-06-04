@@ -1,0 +1,6 @@
+module Pods_MedNews_MedNewsTests {
+  umbrella header "Pods-MedNews-MedNewsTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

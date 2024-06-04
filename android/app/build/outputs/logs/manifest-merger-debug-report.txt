@@ -1,0 +1,930 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/andrewuskov/Documents/projects/osala-app-develop/android/app/src/main/AndroidManifest.xml:1:1-40:12
+INJECTED from /Users/andrewuskov/Documents/projects/osala-app-develop/android/app/src/main/AndroidManifest.xml:1:1-40:12
+INJECTED from /Users/andrewuskov/Documents/projects/osala-app-develop/android/app/src/main/AndroidManifest.xml:1:1-40:12
+INJECTED from /Users/andrewuskov/Documents/projects/osala-app-develop/android/app/src/main/AndroidManifest.xml:1:1-40:12
+MERGED from /Users/andrewuskov/Documents/projects/osala-app-develop/android/app/src/main/AndroidManifest.xml:1:1-40:12
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/andrewuskov/.gradle/caches/transforms-3/93996430493a3ddaa87412e1eacd766e/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:8:1-18:12
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.125.0] /Users/andrewuskov/.gradle/caches/transforms-3/0f83c90d354b6bcf5e0c470422c260a4/transformed/jetified-flipper-network-plugin-0.125.0/AndroidManifest.xml:8:1-15:12
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.125.0] /Users/andrewuskov/.gradle/caches/transforms-3/0a9dcdc42dcab1dbc5a41a5f5b68a386/transformed/jetified-flipper-fresco-plugin-0.125.0/AndroidManifest.xml:8:1-15:12
+MERGED from [:react-native-async-storage_async-storage] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_netinfo] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-12:12
+MERGED from [:react-native-firebase_firestore] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/@react-native-firebase/firestore/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-firebase_messaging] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-45:12
+MERGED from [:react-native-firebase_app] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-32:12
+MERGED from [:react-native-config] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/react-native-config/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-fast-image] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/react-native-fast-image/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-gesture-handler] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-hash] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/react-native-hash/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-image-crop-picker] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-33:12
+MERGED from [:react-native-in-app-review] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/react-native-in-app-review/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-pager-view] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/react-native-pager-view/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-reanimated] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/react-native-reanimated/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-safe-area-context] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-svg] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/react-native-svg/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-video] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/react-native-video/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-webview] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-21:12
+MERGED from [com.facebook.react:react-native:0.68.1] /Users/andrewuskov/.gradle/caches/transforms-3/ab22e5d8440c113da329ebb66530331e/transformed/jetified-react-native-0.68.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/bbd3020ae8664fc6fc4f8b3fd702a868/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.1] /Users/andrewuskov/.gradle/caches/transforms-3/c504c7e14dfe89c7efaaa438ab9852e3/transformed/jetified-play-services-ads-identifier-18.0.1/AndroidManifest.xml:17:1-27:12
+MERGED from [org.webkit:android-jsc:r250230] /Users/andrewuskov/.gradle/caches/transforms-3/680c42564500dc20ae30e170c469d8a5/transformed/jetified-android-jsc-r250230/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:flipper:2.6.0] /Users/andrewuskov/.gradle/caches/transforms-3/f84152b56d1902aec573d5167881f0b4/transformed/jetified-flipper-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:stetho:2.6.0] /Users/andrewuskov/.gradle/caches/transforms-3/11bb61f4e86527dd4994f052cb1ed186/transformed/jetified-stetho-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fresco:2.6.0] /Users/andrewuskov/.gradle/caches/transforms-3/4b0c3742f3bdf14b608a469e8e3f9a90/transformed/jetified-fresco-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:soloader:2.6.0] /Users/andrewuskov/.gradle/caches/transforms-3/a3bff323992df414d1edd25f5fbd2836/transformed/jetified-soloader-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /Users/andrewuskov/.gradle/caches/transforms-3/85c4ccd11ed1450550d2b5a02bd89e1e/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.6.0] /Users/andrewuskov/.gradle/caches/transforms-3/fc8c77ec8b7eb2b1baf87df71681a963/transformed/jetified-drawee-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.6.0] /Users/andrewuskov/.gradle/caches/transforms-3/0886a58f0e4a4c14ea0fb1d5df685e6c/transformed/jetified-nativeimagefilters-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-native:2.6.0] /Users/andrewuskov/.gradle/caches/transforms-3/f38d18206f4b1fc591aa1127ea6fd13c/transformed/jetified-memory-type-native-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-java:2.6.0] /Users/andrewuskov/.gradle/caches/transforms-3/eb0c82195bb526556a3a5eb7dc05b4ce/transformed/jetified-memory-type-java-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-native:2.6.0] /Users/andrewuskov/.gradle/caches/transforms-3/54d85df57404a703315122d91a36c373/transformed/jetified-imagepipeline-native-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.10.3] /Users/andrewuskov/.gradle/caches/transforms-3/3cbcda62d917a6a70d9e3e18cbb7299f/transformed/jetified-soloader-0.10.3/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] /Users/andrewuskov/.gradle/caches/transforms-3/786c372c73e7200ae2c70fe3d65bc3c3/transformed/jetified-memory-type-ashmem-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.6.0] /Users/andrewuskov/.gradle/caches/transforms-3/f5ef05de00857a8436accfb9d0d98b39/transformed/jetified-imagepipeline-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] /Users/andrewuskov/.gradle/caches/transforms-3/e65869c7b71798567544f162bbb40905/transformed/jetified-nativeimagetranscoder-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] /Users/andrewuskov/.gradle/caches/transforms-3/09ddf9dde297e0bf0ea57d06d1fa6170/transformed/jetified-imagepipeline-base-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-firestore:24.4.1] /Users/andrewuskov/.gradle/caches/transforms-3/b1b45b774f8f919982b7be0797c73c93/transformed/jetified-firebase-firestore-24.4.1/AndroidManifest.xml:2:1-25:12
+MERGED from [com.google.android.exoplayer:exoplayer:2.18.1] /Users/andrewuskov/.gradle/caches/transforms-3/efa1f86c322ac47ffce200c4b18f216c/transformed/jetified-exoplayer-2.18.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:extension-okhttp:2.18.1] /Users/andrewuskov/.gradle/caches/transforms-3/a19eb867f08ceea3c1543bbf211327a5/transformed/jetified-extension-okhttp-2.18.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.18.1] /Users/andrewuskov/.gradle/caches/transforms-3/0e2f005c2274635e5739b2ca5b524f5b/transformed/jetified-exoplayer-dash-2.18.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.18.1] /Users/andrewuskov/.gradle/caches/transforms-3/02f759687d97b20b6f90eec85bd63cbc/transformed/jetified-exoplayer-hls-2.18.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-rtsp:2.18.1] /Users/andrewuskov/.gradle/caches/transforms-3/c25faa8846a518737d3d865bd7077133/transformed/jetified-exoplayer-rtsp-2.18.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.18.1] /Users/andrewuskov/.gradle/caches/transforms-3/620040c56e0c7d0e4440e211e6cd7c55/transformed/jetified-exoplayer-smoothstreaming-2.18.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.1] /Users/andrewuskov/.gradle/caches/transforms-3/ea9a633fee145a3968713d72bd9303fa/transformed/jetified-exoplayer-core-2.18.1/AndroidManifest.xml:17:1-26:12
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.18.1] /Users/andrewuskov/.gradle/caches/transforms-3/b2d7c336701cfb90a6173ba4a8bc1bc8/transformed/jetified-exoplayer-datasource-2.18.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.18.1] /Users/andrewuskov/.gradle/caches/transforms-3/67612dac4590ccd13afb59971697248b/transformed/jetified-exoplayer-database-2.18.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.18.1] /Users/andrewuskov/.gradle/caches/transforms-3/7f42e01019dc520d1c24bfdc3d288587/transformed/jetified-exoplayer-extractor-2.18.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.18.1] /Users/andrewuskov/.gradle/caches/transforms-3/b8e23394f7ff7c8884f139733b16fec0/transformed/jetified-exoplayer-decoder-2.18.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.18.1] /Users/andrewuskov/.gradle/caches/transforms-3/997309c9d48468ba245dd445d45ddcc9/transformed/jetified-exoplayer-ui-2.18.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.1] /Users/andrewuskov/.gradle/caches/transforms-3/78513f5a87dd943a7cc2d257d9442f43/transformed/jetified-exoplayer-common-2.18.1/AndroidManifest.xml:17:1-26:12
+MERGED from [io.grpc:grpc-android:1.50.2] /Users/andrewuskov/.gradle/caches/transforms-3/0d84a53e879d2d756f285c9b42c468bf/transformed/jetified-grpc-android-1.50.2/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.yalantis:ucrop:2.2.6-native] /Users/andrewuskov/.gradle/caches/transforms-3/d35dcc0c5be262cad7a1a9d1c7d8b748/transformed/jetified-ucrop-2.2.6-native/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/4b7c482d36299acbbdcbbbc1087ae87e/transformed/material-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/andrewuskov/.gradle/caches/transforms-3/3588e76418ff4a3e8189facd453d57a8/transformed/appcompat-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/3d55e3db98a0ca00cb55228082bbb4df/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-messaging:23.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/3cbd6b37cd995c9a23d283dae8230d79/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:17:1-61:12
+MERGED from [com.google.firebase:firebase-datatransport:18.1.7] /Users/andrewuskov/.gradle/caches/transforms-3/194040efc3fdce71af80767f8a6e5ec2/transformed/jetified-firebase-datatransport-18.1.7/AndroidManifest.xml:15:1-33:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/andrewuskov/.gradle/caches/transforms-3/7743c2a9ae6b3cca0bc58ef27399e3fa/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:15:1-37:12
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/andrewuskov/.gradle/caches/transforms-3/27bd8468e23a6d82f6f4061136a013f6/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:15:1-41:12
+MERGED from [androidx.autofill:autofill:1.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/594208970c5dabed7cc9da1b94969159/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:middleware:2.6.0] /Users/andrewuskov/.gradle/caches/transforms-3/fe2c38150d01e48bf89eeb802373a2b8/transformed/jetified-middleware-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:ui-common:2.6.0] /Users/andrewuskov/.gradle/caches/transforms-3/e4a09e17b2f2d75249d42f8bce833406/transformed/jetified-ui-common-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.12.0] /Users/andrewuskov/.gradle/caches/transforms-3/29ec02cdf220c19a59669d1cfa37b91f/transformed/jetified-okhttp3-integration-4.12.0/AndroidManifest.xml:2:1-16:12
+MERGED from [androidx.core:core-ktx:1.6.0] /Users/andrewuskov/.gradle/caches/transforms-3/4cfe537b4ebc6be3208f19d4298177fa/transformed/jetified-core-ktx-1.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/andrewuskov/.gradle/caches/transforms-3/2ebae1fdbaef7d79256a8ed7354fdeec/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/52d47cc8341733a8cce3a82c73819582/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth:20.3.0] /Users/andrewuskov/.gradle/caches/transforms-3/17831ecc60a27bf455626f00b7b9f743/transformed/jetified-play-services-auth-20.3.0/AndroidManifest.xml:17:1-40:12
+MERGED from [com.github.bumptech.glide:glide:4.12.0] /Users/andrewuskov/.gradle/caches/transforms-3/f898612bb6bea3533f859acf5dbedf41/transformed/jetified-glide-4.12.0/AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] /Users/andrewuskov/.gradle/caches/transforms-3/c26c3adc037413d81d98802872b5f191/transformed/jetified-play-services-auth-api-phone-18.0.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] /Users/andrewuskov/.gradle/caches/transforms-3/d97c56481a603cf57ef39336357a622b/transformed/jetified-play-services-auth-base-18.0.4/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/dcf90f06a84ac919b2799fc24e7cfcc2/transformed/jetified-firebase-appcheck-interop-16.1.0/AndroidManifest.xml:15:1-25:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /Users/andrewuskov/.gradle/caches/transforms-3/097b64de9583050de3f77135cb8578cc/transformed/jetified-firebase-database-collection-18.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/andrewuskov/.gradle/caches/transforms-3/f82e43eb19c65a41979adc5cce0d447d/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] /Users/andrewuskov/.gradle/caches/transforms-3/5abc1a7d0cc779cfea78ca9a04445d5d/transformed/jetified-firebase-auth-interop-19.0.2/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-installations:17.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/27488b6419c8f76ddf6f7c07f536e4e5/transformed/jetified-firebase-installations-17.1.0/AndroidManifest.xml:2:1-23:12
+MERGED from [com.google.firebase:firebase-common:20.2.0] /Users/andrewuskov/.gradle/caches/transforms-3/061b8bff9bf1f53d1bfab2c424615661/transformed/jetified-firebase-common-20.2.0/AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/andrewuskov/.gradle/caches/transforms-3/79d45b1ce75fd73d2c6ac7c9c3e282be/transformed/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/0c6a0f96eedbcbd74483c8976e395914/transformed/jetified-firebase-iid-interop-17.1.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/584e6b169c09c0f31ccf1e76b83bdc52/transformed/jetified-firebase-installations-interop-17.1.0/AndroidManifest.xml:15:1-22:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/andrewuskov/.gradle/caches/transforms-3/22d5c8cfd916adfdfe103e79be455807/transformed/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/andrewuskov/.gradle/caches/transforms-3/0c7960b8c2d1aef71804d5c9333f6892/transformed/jetified-play-services-stats-17.0.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/andrewuskov/.gradle/caches/transforms-3/1d2fac0525846bee032932654ec143fc/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/730ddebbf5733c6fe219b00b1f1441fa/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.3.4] /Users/andrewuskov/.gradle/caches/transforms-3/2d513a233b5d414d42bfe2009a9cb3e0/transformed/fragment-1.3.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.4.0] /Users/andrewuskov/.gradle/caches/transforms-3/63e166dbe2ff41cfdb5187450c02d93b/transformed/jetified-activity-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.webkit:webkit:1.4.0] /Users/andrewuskov/.gradle/caches/transforms-3/4c85b4257d1fc99e9c01425f421dc872/transformed/webkit-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/andrewuskov/.gradle/caches/transforms-3/d8b47e0a64e2bbe52c482b1ffd7fb699/transformed/jetified-appcompat-resources-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/andrewuskov/.gradle/caches/transforms-3/01ddc8f09813d1f8ba204835b2b4a16b/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/andrewuskov/.gradle/caches/transforms-3/7b38973d0b121d40922f524e10ec0beb/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/andrewuskov/.gradle/caches/transforms-3/05c8e0884861fc62be559805db55d651/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/andrewuskov/.gradle/caches/transforms-3/1505e758d4b350ca8871ccb3cda40513/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /Users/andrewuskov/.gradle/caches/transforms-3/c9080091d4edfb6484a311d6c8480ea6/transformed/recyclerview-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/andrewuskov/.gradle/caches/transforms-3/e5263b8514edb734c9e880b5717bd0ea/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/andrewuskov/.gradle/caches/transforms-3/a32fbee89382ce5fddc632ff416a67ee/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/9293bde8b3e8026a0b867819dfff0b9c/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/638dd7bbc28f3e838ab2594b090dbd11/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.4.3] /Users/andrewuskov/.gradle/caches/transforms-3/eb173214714e9d4fec3840c3cf6c7e6d/transformed/media-1.4.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.7.0] /Users/andrewuskov/.gradle/caches/transforms-3/dda30403953c08419f2bf957743d4c78/transformed/core-1.7.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/andrewuskov/.gradle/caches/transforms-3/bbe600931c8ab1516c1518930b2635f0/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/andrewuskov/.gradle/caches/transforms-3/cfd04dcb24a542790669526812529bf8/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/757630935b7698b951733ff17f0056d5/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/andrewuskov/.gradle/caches/transforms-3/ac4e2b91fc336887483077732561971f/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/andrewuskov/.gradle/caches/transforms-3/365417f382951a0ca90d0ff48eba93bb/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/4b86c4ed97855012513e18cd31dcac18/transformed/sqlite-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /Users/andrewuskov/.gradle/caches/transforms-3/e35191e82609b7f03459e4a5759e1de5/transformed/jetified-gifdecoder-4.12.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] /Users/andrewuskov/.gradle/caches/transforms-3/8c3abf9c2c39508f323c519e37fbf8ec/transformed/exifinterface-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/andrewuskov/.gradle/caches/transforms-3/edb60d25d4c2a3a9c13d1ce0d490ebc9/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/andrewuskov/.gradle/caches/transforms-3/cb5a0f2f817a22de646ea1dfbba743d8/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/andrewuskov/.gradle/caches/transforms-3/2c6224b2a4e48a3ff57825e2652d259e/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/andrewuskov/.gradle/caches/transforms-3/998ad0a7a257f6efe06ec6c538d37fc0/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/andrewuskov/.gradle/caches/transforms-3/9b7d832476160f3f2f4fba5329c408a7/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/andrewuskov/.gradle/caches/transforms-3/b3eaaa42c86a5649f18f9f86a3865b60/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/14ce78ce264b9d280d8f476ebd61f854/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-components:17.0.1] /Users/andrewuskov/.gradle/caches/transforms-3/4336f0f1e0ace3ed346149a673776e66/transformed/jetified-firebase-components-17.0.1/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] /Users/andrewuskov/.gradle/caches/transforms-3/f9b15fe79fdde69941c65fe568ca38ea/transformed/jetified-transport-api-3.0.0/AndroidManifest.xml:15:1-22:12
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /Users/andrewuskov/.gradle/caches/transforms-3/b74ef2dfd453d0796ca2f31912d880aa/transformed/jetified-firebase-encoders-json-18.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/andrewuskov/.gradle/caches/transforms-3/25eadadd2707caea89b48fe3bf907650/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/andrewuskov/.gradle/caches/transforms-3/f8038775b685852fbcbf6bf1d2f85802/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/andrewuskov/.gradle/caches/transforms-3/163277a3975ad0374d07ab54177b68a9/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.play:core:1.9.0] /Users/andrewuskov/.gradle/caches/transforms-3/038da3d706a8288db6bc9476c83cb95b/transformed/jetified-core-1.9.0/AndroidManifest.xml:2:1-19:12
+MERGED from [com.facebook.fresco:fbcore:2.6.0] /Users/andrewuskov/.gradle/caches/transforms-3/8d346a2f31cbcee48f7854cf05ee3f67/transformed/jetified-fbcore-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/8ddeee8168763a94a6d7c519407ce760/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /Users/andrewuskov/.gradle/caches/transforms-3/960d27e844064305139c5b081af6ea29/transformed/jetified-protolite-well-known-types-18.0.0/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/andrewuskov/Documents/projects/osala-app-develop/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+INJECTED from /Users/andrewuskov/Documents/projects/osala-app-develop/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+INJECTED from /Users/andrewuskov/Documents/projects/osala-app-develop/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+	package
+		ADDED from /Users/andrewuskov/Documents/projects/osala-app-develop/android/app/src/main/AndroidManifest.xml:2:3-22
+		INJECTED from /Users/andrewuskov/Documents/projects/osala-app-develop/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/andrewuskov/Documents/projects/osala-app-develop/android/app/src/main/AndroidManifest.xml:2:3-22
+		INJECTED from /Users/andrewuskov/Documents/projects/osala-app-develop/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/andrewuskov/Documents/projects/osala-app-develop/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/andrewuskov/Documents/projects/osala-app-develop/android/app/src/main/AndroidManifest.xml:1:1-40:12
+		INJECTED from /Users/andrewuskov/Documents/projects/osala-app-develop/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/andrewuskov/Documents/projects/osala-app-develop/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/andrewuskov/Documents/projects/osala-app-develop/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/andrewuskov/Documents/projects/osala-app-develop/android/app/src/main/AndroidManifest.xml:1:1-40:12
+		INJECTED from /Users/andrewuskov/Documents/projects/osala-app-develop/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/andrewuskov/Documents/projects/osala-app-develop/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/andrewuskov/Documents/projects/osala-app-develop/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/andrewuskov/.gradle/caches/transforms-3/93996430493a3ddaa87412e1eacd766e/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:15:5-67
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/andrewuskov/.gradle/caches/transforms-3/93996430493a3ddaa87412e1eacd766e/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:15:5-67
+MERGED from [:react-native-firebase_messaging] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:react-native-firebase_messaging] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [com.google.firebase:firebase-firestore:24.4.1] /Users/andrewuskov/.gradle/caches/transforms-3/b1b45b774f8f919982b7be0797c73c93/transformed/jetified-firebase-firestore-24.4.1/AndroidManifest.xml:13:5-67
+MERGED from [com.google.firebase:firebase-firestore:24.4.1] /Users/andrewuskov/.gradle/caches/transforms-3/b1b45b774f8f919982b7be0797c73c93/transformed/jetified-firebase-firestore-24.4.1/AndroidManifest.xml:13:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/andrewuskov/.gradle/caches/transforms-3/7743c2a9ae6b3cca0bc58ef27399e3fa/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/andrewuskov/.gradle/caches/transforms-3/7743c2a9ae6b3cca0bc58ef27399e3fa/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-installations:17.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/27488b6419c8f76ddf6f7c07f536e4e5/transformed/jetified-firebase-installations-17.1.0/AndroidManifest.xml:10:5-67
+MERGED from [com.google.firebase:firebase-installations:17.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/27488b6419c8f76ddf6f7c07f536e4e5/transformed/jetified-firebase-installations-17.1.0/AndroidManifest.xml:10:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/andrewuskov/.gradle/caches/transforms-3/79d45b1ce75fd73d2c6ac7c9c3e282be/transformed/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/andrewuskov/.gradle/caches/transforms-3/79d45b1ce75fd73d2c6ac7c9c3e282be/transformed/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from /Users/andrewuskov/Documents/projects/osala-app-develop/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/andrewuskov/Documents/projects/osala-app-develop/android/app/src/main/AndroidManifest.xml:6:5-39:19
+MERGED from /Users/andrewuskov/Documents/projects/osala-app-develop/android/app/src/main/AndroidManifest.xml:6:5-39:19
+MERGED from /Users/andrewuskov/Documents/projects/osala-app-develop/android/app/src/main/AndroidManifest.xml:6:5-39:19
+MERGED from [:react-native-firebase_messaging] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:5-43:19
+MERGED from [:react-native-firebase_messaging] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:5-43:19
+MERGED from [:react-native-firebase_app] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-30:19
+MERGED from [:react-native-firebase_app] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-30:19
+MERGED from [:react-native-image-crop-picker] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:17:5-31:19
+MERGED from [:react-native-image-crop-picker] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:17:5-31:19
+MERGED from [:react-native-webview] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-19:19
+MERGED from [:react-native-webview] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-19:19
+MERGED from [com.facebook.react:react-native:0.68.1] /Users/andrewuskov/.gradle/caches/transforms-3/ab22e5d8440c113da329ebb66530331e/transformed/jetified-react-native-0.68.1/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.react:react-native:0.68.1] /Users/andrewuskov/.gradle/caches/transforms-3/ab22e5d8440c113da329ebb66530331e/transformed/jetified-react-native-0.68.1/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.1] /Users/andrewuskov/.gradle/caches/transforms-3/c504c7e14dfe89c7efaaa438ab9852e3/transformed/jetified-play-services-ads-identifier-18.0.1/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.1] /Users/andrewuskov/.gradle/caches/transforms-3/c504c7e14dfe89c7efaaa438ab9852e3/transformed/jetified-play-services-ads-identifier-18.0.1/AndroidManifest.xml:25:5-20
+MERGED from [com.facebook.soloader:soloader:0.10.3] /Users/andrewuskov/.gradle/caches/transforms-3/3cbcda62d917a6a70d9e3e18cbb7299f/transformed/jetified-soloader-0.10.3/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.10.3] /Users/andrewuskov/.gradle/caches/transforms-3/3cbcda62d917a6a70d9e3e18cbb7299f/transformed/jetified-soloader-0.10.3/AndroidManifest.xml:11:5-20
+MERGED from [com.google.firebase:firebase-firestore:24.4.1] /Users/andrewuskov/.gradle/caches/transforms-3/b1b45b774f8f919982b7be0797c73c93/transformed/jetified-firebase-firestore-24.4.1/AndroidManifest.xml:15:5-23:19
+MERGED from [com.google.firebase:firebase-firestore:24.4.1] /Users/andrewuskov/.gradle/caches/transforms-3/b1b45b774f8f919982b7be0797c73c93/transformed/jetified-firebase-firestore-24.4.1/AndroidManifest.xml:15:5-23:19
+MERGED from [com.google.android.material:material:1.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/4b7c482d36299acbbdcbbbc1087ae87e/transformed/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/4b7c482d36299acbbdcbbbc1087ae87e/transformed/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-messaging:23.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/3cbd6b37cd995c9a23d283dae8230d79/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.firebase:firebase-messaging:23.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/3cbd6b37cd995c9a23d283dae8230d79/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.7] /Users/andrewuskov/.gradle/caches/transforms-3/194040efc3fdce71af80767f8a6e5ec2/transformed/jetified-firebase-datatransport-18.1.7/AndroidManifest.xml:23:5-31:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.7] /Users/andrewuskov/.gradle/caches/transforms-3/194040efc3fdce71af80767f8a6e5ec2/transformed/jetified-firebase-datatransport-18.1.7/AndroidManifest.xml:23:5-31:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/andrewuskov/.gradle/caches/transforms-3/7743c2a9ae6b3cca0bc58ef27399e3fa/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/andrewuskov/.gradle/caches/transforms-3/7743c2a9ae6b3cca0bc58ef27399e3fa/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/andrewuskov/.gradle/caches/transforms-3/27bd8468e23a6d82f6f4061136a013f6/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/andrewuskov/.gradle/caches/transforms-3/27bd8468e23a6d82f6f4061136a013f6/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:25:5-39:19
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.12.0] /Users/andrewuskov/.gradle/caches/transforms-3/29ec02cdf220c19a59669d1cfa37b91f/transformed/jetified-okhttp3-integration-4.12.0/AndroidManifest.xml:10:5-14:19
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.12.0] /Users/andrewuskov/.gradle/caches/transforms-3/29ec02cdf220c19a59669d1cfa37b91f/transformed/jetified-okhttp3-integration-4.12.0/AndroidManifest.xml:10:5-14:19
+MERGED from [com.google.android.gms:play-services-auth:20.3.0] /Users/andrewuskov/.gradle/caches/transforms-3/17831ecc60a27bf455626f00b7b9f743/transformed/jetified-play-services-auth-20.3.0/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:20.3.0] /Users/andrewuskov/.gradle/caches/transforms-3/17831ecc60a27bf455626f00b7b9f743/transformed/jetified-play-services-auth-20.3.0/AndroidManifest.xml:22:5-38:19
+MERGED from [com.github.bumptech.glide:glide:4.12.0] /Users/andrewuskov/.gradle/caches/transforms-3/f898612bb6bea3533f859acf5dbedf41/transformed/jetified-glide-4.12.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.12.0] /Users/andrewuskov/.gradle/caches/transforms-3/f898612bb6bea3533f859acf5dbedf41/transformed/jetified-glide-4.12.0/AndroidManifest.xml:10:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/dcf90f06a84ac919b2799fc24e7cfcc2/transformed/jetified-firebase-appcheck-interop-16.1.0/AndroidManifest.xml:23:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/dcf90f06a84ac919b2799fc24e7cfcc2/transformed/jetified-firebase-appcheck-interop-16.1.0/AndroidManifest.xml:23:5-20
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/andrewuskov/.gradle/caches/transforms-3/f82e43eb19c65a41979adc5cce0d447d/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/andrewuskov/.gradle/caches/transforms-3/f82e43eb19c65a41979adc5cce0d447d/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] /Users/andrewuskov/.gradle/caches/transforms-3/5abc1a7d0cc779cfea78ca9a04445d5d/transformed/jetified-firebase-auth-interop-19.0.2/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] /Users/andrewuskov/.gradle/caches/transforms-3/5abc1a7d0cc779cfea78ca9a04445d5d/transformed/jetified-firebase-auth-interop-19.0.2/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-installations:17.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/27488b6419c8f76ddf6f7c07f536e4e5/transformed/jetified-firebase-installations-17.1.0/AndroidManifest.xml:13:5-21:19
+MERGED from [com.google.firebase:firebase-installations:17.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/27488b6419c8f76ddf6f7c07f536e4e5/transformed/jetified-firebase-installations-17.1.0/AndroidManifest.xml:13:5-21:19
+MERGED from [com.google.firebase:firebase-common:20.2.0] /Users/andrewuskov/.gradle/caches/transforms-3/061b8bff9bf1f53d1bfab2c424615661/transformed/jetified-firebase-common-20.2.0/AndroidManifest.xml:24:5-37:19
+MERGED from [com.google.firebase:firebase-common:20.2.0] /Users/andrewuskov/.gradle/caches/transforms-3/061b8bff9bf1f53d1bfab2c424615661/transformed/jetified-firebase-common-20.2.0/AndroidManifest.xml:24:5-37:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/0c6a0f96eedbcbd74483c8976e395914/transformed/jetified-firebase-iid-interop-17.1.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/0c6a0f96eedbcbd74483c8976e395914/transformed/jetified-firebase-iid-interop-17.1.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/andrewuskov/.gradle/caches/transforms-3/22d5c8cfd916adfdfe103e79be455807/transformed/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/andrewuskov/.gradle/caches/transforms-3/22d5c8cfd916adfdfe103e79be455807/transformed/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/andrewuskov/.gradle/caches/transforms-3/0c7960b8c2d1aef71804d5c9333f6892/transformed/jetified-play-services-stats-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/andrewuskov/.gradle/caches/transforms-3/0c7960b8c2d1aef71804d5c9333f6892/transformed/jetified-play-services-stats-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/andrewuskov/.gradle/caches/transforms-3/1d2fac0525846bee032932654ec143fc/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/andrewuskov/.gradle/caches/transforms-3/1d2fac0525846bee032932654ec143fc/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/730ddebbf5733c6fe219b00b1f1441fa/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/730ddebbf5733c6fe219b00b1f1441fa/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.core:core:1.7.0] /Users/andrewuskov/.gradle/caches/transforms-3/dda30403953c08419f2bf957743d4c78/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] /Users/andrewuskov/.gradle/caches/transforms-3/dda30403953c08419f2bf957743d4c78/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /Users/andrewuskov/.gradle/caches/transforms-3/e35191e82609b7f03459e4a5759e1de5/transformed/jetified-gifdecoder-4.12.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /Users/andrewuskov/.gradle/caches/transforms-3/e35191e82609b7f03459e4a5759e1de5/transformed/jetified-gifdecoder-4.12.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/andrewuskov/.gradle/caches/transforms-3/cb5a0f2f817a22de646ea1dfbba743d8/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/andrewuskov/.gradle/caches/transforms-3/cb5a0f2f817a22de646ea1dfbba743d8/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.android.play:core:1.9.0] /Users/andrewuskov/.gradle/caches/transforms-3/038da3d706a8288db6bc9476c83cb95b/transformed/jetified-core-1.9.0/AndroidManifest.xml:10:3-17:17
+MERGED from [com.google.android.play:core:1.9.0] /Users/andrewuskov/.gradle/caches/transforms-3/038da3d706a8288db6bc9476c83cb95b/transformed/jetified-core-1.9.0/AndroidManifest.xml:10:3-17:17
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] /Users/andrewuskov/.gradle/caches/transforms-3/dda30403953c08419f2bf957743d4c78/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/andrewuskov/Documents/projects/osala-app-develop/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Users/andrewuskov/Documents/projects/osala-app-develop/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /Users/andrewuskov/Documents/projects/osala-app-develop/android/app/src/debug/AndroidManifest.xml:10:9-48
+	android:roundIcon
+		ADDED from /Users/andrewuskov/Documents/projects/osala-app-develop/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /Users/andrewuskov/Documents/projects/osala-app-develop/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /Users/andrewuskov/Documents/projects/osala-app-develop/android/app/src/debug/AndroidManifest.xml:9:9-29
+	android:icon
+		ADDED from /Users/andrewuskov/Documents/projects/osala-app-develop/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Users/andrewuskov/Documents/projects/osala-app-develop/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/andrewuskov/Documents/projects/osala-app-develop/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/andrewuskov/Documents/projects/osala-app-develop/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/andrewuskov/Documents/projects/osala-app-develop/android/app/src/main/AndroidManifest.xml:13:7-38
+		ADDED from /Users/andrewuskov/Documents/projects/osala-app-develop/android/app/src/main/AndroidManifest.xml:13:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/andrewuskov/Documents/projects/osala-app-develop/android/app/src/main/AndroidManifest.xml:12:7-42
+	android:name
+		ADDED from /Users/andrewuskov/Documents/projects/osala-app-develop/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Users/andrewuskov/Documents/projects/osala-app-develop/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.osala.MainActivity
+ADDED from /Users/andrewuskov/Documents/projects/osala-app-develop/android/app/src/main/AndroidManifest.xml:14:7-38:18
+	android:label
+		ADDED from /Users/andrewuskov/Documents/projects/osala-app-develop/android/app/src/main/AndroidManifest.xml:16:9-41
+	android:launchMode
+		ADDED from /Users/andrewuskov/Documents/projects/osala-app-develop/android/app/src/main/AndroidManifest.xml:18:9-40
+	android:windowSoftInputMode
+		ADDED from /Users/andrewuskov/Documents/projects/osala-app-develop/android/app/src/main/AndroidManifest.xml:19:9-51
+	android:exported
+		ADDED from /Users/andrewuskov/Documents/projects/osala-app-develop/android/app/src/main/AndroidManifest.xml:20:9-32
+	android:configChanges
+		ADDED from /Users/andrewuskov/Documents/projects/osala-app-develop/android/app/src/main/AndroidManifest.xml:17:9-118
+	android:name
+		ADDED from /Users/andrewuskov/Documents/projects/osala-app-develop/android/app/src/main/AndroidManifest.xml:15:9-37
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:osala.com+data:scheme:http
+ADDED from /Users/andrewuskov/Documents/projects/osala-app-develop/android/app/src/main/AndroidManifest.xml:21:11-27:27
+	android:autoVerify
+		ADDED from /Users/andrewuskov/Documents/projects/osala-app-develop/android/app/src/main/AndroidManifest.xml:21:26-51
+action#android.intent.action.VIEW
+ADDED from /Users/andrewuskov/Documents/projects/osala-app-develop/android/app/src/main/AndroidManifest.xml:22:15-67
+	android:name
+		ADDED from /Users/andrewuskov/Documents/projects/osala-app-develop/android/app/src/main/AndroidManifest.xml:22:23-64
+category#android.intent.category.DEFAULT
+ADDED from /Users/andrewuskov/Documents/projects/osala-app-develop/android/app/src/main/AndroidManifest.xml:23:15-74
+	android:name
+		ADDED from /Users/andrewuskov/Documents/projects/osala-app-develop/android/app/src/main/AndroidManifest.xml:23:25-71
+category#android.intent.category.BROWSABLE
+ADDED from /Users/andrewuskov/Documents/projects/osala-app-develop/android/app/src/main/AndroidManifest.xml:24:15-76
+	android:name
+		ADDED from /Users/andrewuskov/Documents/projects/osala-app-develop/android/app/src/main/AndroidManifest.xml:24:25-73
+data
+ADDED from /Users/andrewuskov/Documents/projects/osala-app-develop/android/app/src/main/AndroidManifest.xml:25:15-26:48
+	android:host
+		ADDED from /Users/andrewuskov/Documents/projects/osala-app-develop/android/app/src/main/AndroidManifest.xml:26:21-45
+	android:scheme
+		ADDED from /Users/andrewuskov/Documents/projects/osala-app-develop/android/app/src/main/AndroidManifest.xml:25:21-42
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:osala
+ADDED from /Users/andrewuskov/Documents/projects/osala-app-develop/android/app/src/main/AndroidManifest.xml:28:11-33:27
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/andrewuskov/Documents/projects/osala-app-develop/android/app/src/main/AndroidManifest.xml:34:11-37:27
+action#android.intent.action.MAIN
+ADDED from /Users/andrewuskov/Documents/projects/osala-app-develop/android/app/src/main/AndroidManifest.xml:35:15-67
+	android:name
+		ADDED from /Users/andrewuskov/Documents/projects/osala-app-develop/android/app/src/main/AndroidManifest.xml:35:23-64
+category#android.intent.category.LAUNCHER
+ADDED from /Users/andrewuskov/Documents/projects/osala-app-develop/android/app/src/main/AndroidManifest.xml:36:15-75
+	android:name
+		ADDED from /Users/andrewuskov/Documents/projects/osala-app-develop/android/app/src/main/AndroidManifest.xml:36:25-72
+uses-sdk
+INJECTED from /Users/andrewuskov/Documents/projects/osala-app-develop/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/andrewuskov/Documents/projects/osala-app-develop/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/andrewuskov/Documents/projects/osala-app-develop/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/andrewuskov/.gradle/caches/transforms-3/93996430493a3ddaa87412e1eacd766e/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/andrewuskov/.gradle/caches/transforms-3/93996430493a3ddaa87412e1eacd766e/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.125.0] /Users/andrewuskov/.gradle/caches/transforms-3/0f83c90d354b6bcf5e0c470422c260a4/transformed/jetified-flipper-network-plugin-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.125.0] /Users/andrewuskov/.gradle/caches/transforms-3/0f83c90d354b6bcf5e0c470422c260a4/transformed/jetified-flipper-network-plugin-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.125.0] /Users/andrewuskov/.gradle/caches/transforms-3/0a9dcdc42dcab1dbc5a41a5f5b68a386/transformed/jetified-flipper-fresco-plugin-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.125.0] /Users/andrewuskov/.gradle/caches/transforms-3/0a9dcdc42dcab1dbc5a41a5f5b68a386/transformed/jetified-flipper-fresco-plugin-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [:react-native-async-storage_async-storage] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-async-storage_async-storage] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_netinfo] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_netinfo] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase_firestore] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/@react-native-firebase/firestore/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase_firestore] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/@react-native-firebase/firestore/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase_messaging] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase_messaging] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase_app] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-firebase_app] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-config] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/react-native-config/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-config] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/react-native-config/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-fast-image] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/react-native-fast-image/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-fast-image] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/react-native-fast-image/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-hash] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/react-native-hash/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-hash] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/react-native-hash/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-image-crop-picker] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-image-crop-picker] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-in-app-review] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/react-native-in-app-review/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-in-app-review] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/react-native-in-app-review/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-pager-view] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/react-native-pager-view/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-pager-view] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/react-native-pager-view/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-reanimated] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/react-native-reanimated/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-reanimated] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/react-native-reanimated/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/react-native-svg/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/react-native-svg/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-video] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/react-native-video/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-video] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/react-native-video/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-webview] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-webview] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.68.1] /Users/andrewuskov/.gradle/caches/transforms-3/ab22e5d8440c113da329ebb66530331e/transformed/jetified-react-native-0.68.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.68.1] /Users/andrewuskov/.gradle/caches/transforms-3/ab22e5d8440c113da329ebb66530331e/transformed/jetified-react-native-0.68.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/bbd3020ae8664fc6fc4f8b3fd702a868/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/bbd3020ae8664fc6fc4f8b3fd702a868/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.1] /Users/andrewuskov/.gradle/caches/transforms-3/c504c7e14dfe89c7efaaa438ab9852e3/transformed/jetified-play-services-ads-identifier-18.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.1] /Users/andrewuskov/.gradle/caches/transforms-3/c504c7e14dfe89c7efaaa438ab9852e3/transformed/jetified-play-services-ads-identifier-18.0.1/AndroidManifest.xml:20:5-44
+MERGED from [org.webkit:android-jsc:r250230] /Users/andrewuskov/.gradle/caches/transforms-3/680c42564500dc20ae30e170c469d8a5/transformed/jetified-android-jsc-r250230/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r250230] /Users/andrewuskov/.gradle/caches/transforms-3/680c42564500dc20ae30e170c469d8a5/transformed/jetified-android-jsc-r250230/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:flipper:2.6.0] /Users/andrewuskov/.gradle/caches/transforms-3/f84152b56d1902aec573d5167881f0b4/transformed/jetified-flipper-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.6.0] /Users/andrewuskov/.gradle/caches/transforms-3/f84152b56d1902aec573d5167881f0b4/transformed/jetified-flipper-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.6.0] /Users/andrewuskov/.gradle/caches/transforms-3/11bb61f4e86527dd4994f052cb1ed186/transformed/jetified-stetho-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.6.0] /Users/andrewuskov/.gradle/caches/transforms-3/11bb61f4e86527dd4994f052cb1ed186/transformed/jetified-stetho-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.6.0] /Users/andrewuskov/.gradle/caches/transforms-3/4b0c3742f3bdf14b608a469e8e3f9a90/transformed/jetified-fresco-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.6.0] /Users/andrewuskov/.gradle/caches/transforms-3/4b0c3742f3bdf14b608a469e8e3f9a90/transformed/jetified-fresco-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.6.0] /Users/andrewuskov/.gradle/caches/transforms-3/a3bff323992df414d1edd25f5fbd2836/transformed/jetified-soloader-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.6.0] /Users/andrewuskov/.gradle/caches/transforms-3/a3bff323992df414d1edd25f5fbd2836/transformed/jetified-soloader-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /Users/andrewuskov/.gradle/caches/transforms-3/85c4ccd11ed1450550d2b5a02bd89e1e/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /Users/andrewuskov/.gradle/caches/transforms-3/85c4ccd11ed1450550d2b5a02bd89e1e/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.6.0] /Users/andrewuskov/.gradle/caches/transforms-3/fc8c77ec8b7eb2b1baf87df71681a963/transformed/jetified-drawee-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.6.0] /Users/andrewuskov/.gradle/caches/transforms-3/fc8c77ec8b7eb2b1baf87df71681a963/transformed/jetified-drawee-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.6.0] /Users/andrewuskov/.gradle/caches/transforms-3/0886a58f0e4a4c14ea0fb1d5df685e6c/transformed/jetified-nativeimagefilters-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.6.0] /Users/andrewuskov/.gradle/caches/transforms-3/0886a58f0e4a4c14ea0fb1d5df685e6c/transformed/jetified-nativeimagefilters-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.6.0] /Users/andrewuskov/.gradle/caches/transforms-3/f38d18206f4b1fc591aa1127ea6fd13c/transformed/jetified-memory-type-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.6.0] /Users/andrewuskov/.gradle/caches/transforms-3/f38d18206f4b1fc591aa1127ea6fd13c/transformed/jetified-memory-type-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.6.0] /Users/andrewuskov/.gradle/caches/transforms-3/eb0c82195bb526556a3a5eb7dc05b4ce/transformed/jetified-memory-type-java-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.6.0] /Users/andrewuskov/.gradle/caches/transforms-3/eb0c82195bb526556a3a5eb7dc05b4ce/transformed/jetified-memory-type-java-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.6.0] /Users/andrewuskov/.gradle/caches/transforms-3/54d85df57404a703315122d91a36c373/transformed/jetified-imagepipeline-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.6.0] /Users/andrewuskov/.gradle/caches/transforms-3/54d85df57404a703315122d91a36c373/transformed/jetified-imagepipeline-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.10.3] /Users/andrewuskov/.gradle/caches/transforms-3/3cbcda62d917a6a70d9e3e18cbb7299f/transformed/jetified-soloader-0.10.3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.10.3] /Users/andrewuskov/.gradle/caches/transforms-3/3cbcda62d917a6a70d9e3e18cbb7299f/transformed/jetified-soloader-0.10.3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] /Users/andrewuskov/.gradle/caches/transforms-3/786c372c73e7200ae2c70fe3d65bc3c3/transformed/jetified-memory-type-ashmem-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] /Users/andrewuskov/.gradle/caches/transforms-3/786c372c73e7200ae2c70fe3d65bc3c3/transformed/jetified-memory-type-ashmem-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.6.0] /Users/andrewuskov/.gradle/caches/transforms-3/f5ef05de00857a8436accfb9d0d98b39/transformed/jetified-imagepipeline-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.6.0] /Users/andrewuskov/.gradle/caches/transforms-3/f5ef05de00857a8436accfb9d0d98b39/transformed/jetified-imagepipeline-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] /Users/andrewuskov/.gradle/caches/transforms-3/e65869c7b71798567544f162bbb40905/transformed/jetified-nativeimagetranscoder-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] /Users/andrewuskov/.gradle/caches/transforms-3/e65869c7b71798567544f162bbb40905/transformed/jetified-nativeimagetranscoder-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] /Users/andrewuskov/.gradle/caches/transforms-3/09ddf9dde297e0bf0ea57d06d1fa6170/transformed/jetified-imagepipeline-base-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] /Users/andrewuskov/.gradle/caches/transforms-3/09ddf9dde297e0bf0ea57d06d1fa6170/transformed/jetified-imagepipeline-base-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-firestore:24.4.1] /Users/andrewuskov/.gradle/caches/transforms-3/b1b45b774f8f919982b7be0797c73c93/transformed/jetified-firebase-firestore-24.4.1/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-firestore:24.4.1] /Users/andrewuskov/.gradle/caches/transforms-3/b1b45b774f8f919982b7be0797c73c93/transformed/jetified-firebase-firestore-24.4.1/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.exoplayer:exoplayer:2.18.1] /Users/andrewuskov/.gradle/caches/transforms-3/efa1f86c322ac47ffce200c4b18f216c/transformed/jetified-exoplayer-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer:2.18.1] /Users/andrewuskov/.gradle/caches/transforms-3/efa1f86c322ac47ffce200c4b18f216c/transformed/jetified-exoplayer-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:extension-okhttp:2.18.1] /Users/andrewuskov/.gradle/caches/transforms-3/a19eb867f08ceea3c1543bbf211327a5/transformed/jetified-extension-okhttp-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:extension-okhttp:2.18.1] /Users/andrewuskov/.gradle/caches/transforms-3/a19eb867f08ceea3c1543bbf211327a5/transformed/jetified-extension-okhttp-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.18.1] /Users/andrewuskov/.gradle/caches/transforms-3/0e2f005c2274635e5739b2ca5b524f5b/transformed/jetified-exoplayer-dash-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.18.1] /Users/andrewuskov/.gradle/caches/transforms-3/0e2f005c2274635e5739b2ca5b524f5b/transformed/jetified-exoplayer-dash-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.18.1] /Users/andrewuskov/.gradle/caches/transforms-3/02f759687d97b20b6f90eec85bd63cbc/transformed/jetified-exoplayer-hls-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.18.1] /Users/andrewuskov/.gradle/caches/transforms-3/02f759687d97b20b6f90eec85bd63cbc/transformed/jetified-exoplayer-hls-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-rtsp:2.18.1] /Users/andrewuskov/.gradle/caches/transforms-3/c25faa8846a518737d3d865bd7077133/transformed/jetified-exoplayer-rtsp-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-rtsp:2.18.1] /Users/andrewuskov/.gradle/caches/transforms-3/c25faa8846a518737d3d865bd7077133/transformed/jetified-exoplayer-rtsp-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.18.1] /Users/andrewuskov/.gradle/caches/transforms-3/620040c56e0c7d0e4440e211e6cd7c55/transformed/jetified-exoplayer-smoothstreaming-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.18.1] /Users/andrewuskov/.gradle/caches/transforms-3/620040c56e0c7d0e4440e211e6cd7c55/transformed/jetified-exoplayer-smoothstreaming-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.1] /Users/andrewuskov/.gradle/caches/transforms-3/ea9a633fee145a3968713d72bd9303fa/transformed/jetified-exoplayer-core-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.1] /Users/andrewuskov/.gradle/caches/transforms-3/ea9a633fee145a3968713d72bd9303fa/transformed/jetified-exoplayer-core-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.18.1] /Users/andrewuskov/.gradle/caches/transforms-3/b2d7c336701cfb90a6173ba4a8bc1bc8/transformed/jetified-exoplayer-datasource-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.18.1] /Users/andrewuskov/.gradle/caches/transforms-3/b2d7c336701cfb90a6173ba4a8bc1bc8/transformed/jetified-exoplayer-datasource-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.18.1] /Users/andrewuskov/.gradle/caches/transforms-3/67612dac4590ccd13afb59971697248b/transformed/jetified-exoplayer-database-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.18.1] /Users/andrewuskov/.gradle/caches/transforms-3/67612dac4590ccd13afb59971697248b/transformed/jetified-exoplayer-database-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.18.1] /Users/andrewuskov/.gradle/caches/transforms-3/7f42e01019dc520d1c24bfdc3d288587/transformed/jetified-exoplayer-extractor-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.18.1] /Users/andrewuskov/.gradle/caches/transforms-3/7f42e01019dc520d1c24bfdc3d288587/transformed/jetified-exoplayer-extractor-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.18.1] /Users/andrewuskov/.gradle/caches/transforms-3/b8e23394f7ff7c8884f139733b16fec0/transformed/jetified-exoplayer-decoder-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.18.1] /Users/andrewuskov/.gradle/caches/transforms-3/b8e23394f7ff7c8884f139733b16fec0/transformed/jetified-exoplayer-decoder-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.18.1] /Users/andrewuskov/.gradle/caches/transforms-3/997309c9d48468ba245dd445d45ddcc9/transformed/jetified-exoplayer-ui-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.18.1] /Users/andrewuskov/.gradle/caches/transforms-3/997309c9d48468ba245dd445d45ddcc9/transformed/jetified-exoplayer-ui-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.1] /Users/andrewuskov/.gradle/caches/transforms-3/78513f5a87dd943a7cc2d257d9442f43/transformed/jetified-exoplayer-common-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.1] /Users/andrewuskov/.gradle/caches/transforms-3/78513f5a87dd943a7cc2d257d9442f43/transformed/jetified-exoplayer-common-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [io.grpc:grpc-android:1.50.2] /Users/andrewuskov/.gradle/caches/transforms-3/0d84a53e879d2d756f285c9b42c468bf/transformed/jetified-grpc-android-1.50.2/AndroidManifest.xml:5:5-7:41
+MERGED from [io.grpc:grpc-android:1.50.2] /Users/andrewuskov/.gradle/caches/transforms-3/0d84a53e879d2d756f285c9b42c468bf/transformed/jetified-grpc-android-1.50.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.yalantis:ucrop:2.2.6-native] /Users/andrewuskov/.gradle/caches/transforms-3/d35dcc0c5be262cad7a1a9d1c7d8b748/transformed/jetified-ucrop-2.2.6-native/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.6-native] /Users/andrewuskov/.gradle/caches/transforms-3/d35dcc0c5be262cad7a1a9d1c7d8b748/transformed/jetified-ucrop-2.2.6-native/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/4b7c482d36299acbbdcbbbc1087ae87e/transformed/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/4b7c482d36299acbbdcbbbc1087ae87e/transformed/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/andrewuskov/.gradle/caches/transforms-3/3588e76418ff4a3e8189facd453d57a8/transformed/appcompat-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/andrewuskov/.gradle/caches/transforms-3/3588e76418ff4a3e8189facd453d57a8/transformed/appcompat-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/3d55e3db98a0ca00cb55228082bbb4df/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/3d55e3db98a0ca00cb55228082bbb4df/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-messaging:23.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/3cbd6b37cd995c9a23d283dae8230d79/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-messaging:23.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/3cbd6b37cd995c9a23d283dae8230d79/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-datatransport:18.1.7] /Users/andrewuskov/.gradle/caches/transforms-3/194040efc3fdce71af80767f8a6e5ec2/transformed/jetified-firebase-datatransport-18.1.7/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-datatransport:18.1.7] /Users/andrewuskov/.gradle/caches/transforms-3/194040efc3fdce71af80767f8a6e5ec2/transformed/jetified-firebase-datatransport-18.1.7/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/andrewuskov/.gradle/caches/transforms-3/7743c2a9ae6b3cca0bc58ef27399e3fa/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/andrewuskov/.gradle/caches/transforms-3/7743c2a9ae6b3cca0bc58ef27399e3fa/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/andrewuskov/.gradle/caches/transforms-3/27bd8468e23a6d82f6f4061136a013f6/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/andrewuskov/.gradle/caches/transforms-3/27bd8468e23a6d82f6f4061136a013f6/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:18:5-20:41
+MERGED from [androidx.autofill:autofill:1.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/594208970c5dabed7cc9da1b94969159/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/594208970c5dabed7cc9da1b94969159/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:middleware:2.6.0] /Users/andrewuskov/.gradle/caches/transforms-3/fe2c38150d01e48bf89eeb802373a2b8/transformed/jetified-middleware-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:middleware:2.6.0] /Users/andrewuskov/.gradle/caches/transforms-3/fe2c38150d01e48bf89eeb802373a2b8/transformed/jetified-middleware-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.6.0] /Users/andrewuskov/.gradle/caches/transforms-3/e4a09e17b2f2d75249d42f8bce833406/transformed/jetified-ui-common-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.6.0] /Users/andrewuskov/.gradle/caches/transforms-3/e4a09e17b2f2d75249d42f8bce833406/transformed/jetified-ui-common-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.12.0] /Users/andrewuskov/.gradle/caches/transforms-3/29ec02cdf220c19a59669d1cfa37b91f/transformed/jetified-okhttp3-integration-4.12.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.12.0] /Users/andrewuskov/.gradle/caches/transforms-3/29ec02cdf220c19a59669d1cfa37b91f/transformed/jetified-okhttp3-integration-4.12.0/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.core:core-ktx:1.6.0] /Users/andrewuskov/.gradle/caches/transforms-3/4cfe537b4ebc6be3208f19d4298177fa/transformed/jetified-core-ktx-1.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.6.0] /Users/andrewuskov/.gradle/caches/transforms-3/4cfe537b4ebc6be3208f19d4298177fa/transformed/jetified-core-ktx-1.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/andrewuskov/.gradle/caches/transforms-3/2ebae1fdbaef7d79256a8ed7354fdeec/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/andrewuskov/.gradle/caches/transforms-3/2ebae1fdbaef7d79256a8ed7354fdeec/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/52d47cc8341733a8cce3a82c73819582/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/52d47cc8341733a8cce3a82c73819582/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-auth:20.3.0] /Users/andrewuskov/.gradle/caches/transforms-3/17831ecc60a27bf455626f00b7b9f743/transformed/jetified-play-services-auth-20.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.3.0] /Users/andrewuskov/.gradle/caches/transforms-3/17831ecc60a27bf455626f00b7b9f743/transformed/jetified-play-services-auth-20.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.12.0] /Users/andrewuskov/.gradle/caches/transforms-3/f898612bb6bea3533f859acf5dbedf41/transformed/jetified-glide-4.12.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.12.0] /Users/andrewuskov/.gradle/caches/transforms-3/f898612bb6bea3533f859acf5dbedf41/transformed/jetified-glide-4.12.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] /Users/andrewuskov/.gradle/caches/transforms-3/c26c3adc037413d81d98802872b5f191/transformed/jetified-play-services-auth-api-phone-18.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] /Users/andrewuskov/.gradle/caches/transforms-3/c26c3adc037413d81d98802872b5f191/transformed/jetified-play-services-auth-api-phone-18.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] /Users/andrewuskov/.gradle/caches/transforms-3/d97c56481a603cf57ef39336357a622b/transformed/jetified-play-services-auth-base-18.0.4/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] /Users/andrewuskov/.gradle/caches/transforms-3/d97c56481a603cf57ef39336357a622b/transformed/jetified-play-services-auth-base-18.0.4/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/dcf90f06a84ac919b2799fc24e7cfcc2/transformed/jetified-firebase-appcheck-interop-16.1.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/dcf90f06a84ac919b2799fc24e7cfcc2/transformed/jetified-firebase-appcheck-interop-16.1.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /Users/andrewuskov/.gradle/caches/transforms-3/097b64de9583050de3f77135cb8578cc/transformed/jetified-firebase-database-collection-18.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /Users/andrewuskov/.gradle/caches/transforms-3/097b64de9583050de3f77135cb8578cc/transformed/jetified-firebase-database-collection-18.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/andrewuskov/.gradle/caches/transforms-3/f82e43eb19c65a41979adc5cce0d447d/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/andrewuskov/.gradle/caches/transforms-3/f82e43eb19c65a41979adc5cce0d447d/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] /Users/andrewuskov/.gradle/caches/transforms-3/5abc1a7d0cc779cfea78ca9a04445d5d/transformed/jetified-firebase-auth-interop-19.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] /Users/andrewuskov/.gradle/caches/transforms-3/5abc1a7d0cc779cfea78ca9a04445d5d/transformed/jetified-firebase-auth-interop-19.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations:17.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/27488b6419c8f76ddf6f7c07f536e4e5/transformed/jetified-firebase-installations-17.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-installations:17.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/27488b6419c8f76ddf6f7c07f536e4e5/transformed/jetified-firebase-installations-17.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common:20.2.0] /Users/andrewuskov/.gradle/caches/transforms-3/061b8bff9bf1f53d1bfab2c424615661/transformed/jetified-firebase-common-20.2.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-common:20.2.0] /Users/andrewuskov/.gradle/caches/transforms-3/061b8bff9bf1f53d1bfab2c424615661/transformed/jetified-firebase-common-20.2.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/andrewuskov/.gradle/caches/transforms-3/79d45b1ce75fd73d2c6ac7c9c3e282be/transformed/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/andrewuskov/.gradle/caches/transforms-3/79d45b1ce75fd73d2c6ac7c9c3e282be/transformed/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/0c6a0f96eedbcbd74483c8976e395914/transformed/jetified-firebase-iid-interop-17.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/0c6a0f96eedbcbd74483c8976e395914/transformed/jetified-firebase-iid-interop-17.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/584e6b169c09c0f31ccf1e76b83bdc52/transformed/jetified-firebase-installations-interop-17.1.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/584e6b169c09c0f31ccf1e76b83bdc52/transformed/jetified-firebase-installations-interop-17.1.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/andrewuskov/.gradle/caches/transforms-3/22d5c8cfd916adfdfe103e79be455807/transformed/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/andrewuskov/.gradle/caches/transforms-3/22d5c8cfd916adfdfe103e79be455807/transformed/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/andrewuskov/.gradle/caches/transforms-3/0c7960b8c2d1aef71804d5c9333f6892/transformed/jetified-play-services-stats-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/andrewuskov/.gradle/caches/transforms-3/0c7960b8c2d1aef71804d5c9333f6892/transformed/jetified-play-services-stats-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/andrewuskov/.gradle/caches/transforms-3/1d2fac0525846bee032932654ec143fc/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/andrewuskov/.gradle/caches/transforms-3/1d2fac0525846bee032932654ec143fc/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/730ddebbf5733c6fe219b00b1f1441fa/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/730ddebbf5733c6fe219b00b1f1441fa/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.3.4] /Users/andrewuskov/.gradle/caches/transforms-3/2d513a233b5d414d42bfe2009a9cb3e0/transformed/fragment-1.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] /Users/andrewuskov/.gradle/caches/transforms-3/2d513a233b5d414d42bfe2009a9cb3e0/transformed/fragment-1.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.4.0] /Users/andrewuskov/.gradle/caches/transforms-3/63e166dbe2ff41cfdb5187450c02d93b/transformed/jetified-activity-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.4.0] /Users/andrewuskov/.gradle/caches/transforms-3/63e166dbe2ff41cfdb5187450c02d93b/transformed/jetified-activity-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.webkit:webkit:1.4.0] /Users/andrewuskov/.gradle/caches/transforms-3/4c85b4257d1fc99e9c01425f421dc872/transformed/webkit-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.webkit:webkit:1.4.0] /Users/andrewuskov/.gradle/caches/transforms-3/4c85b4257d1fc99e9c01425f421dc872/transformed/webkit-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/andrewuskov/.gradle/caches/transforms-3/d8b47e0a64e2bbe52c482b1ffd7fb699/transformed/jetified-appcompat-resources-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/andrewuskov/.gradle/caches/transforms-3/d8b47e0a64e2bbe52c482b1ffd7fb699/transformed/jetified-appcompat-resources-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/andrewuskov/.gradle/caches/transforms-3/01ddc8f09813d1f8ba204835b2b4a16b/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/andrewuskov/.gradle/caches/transforms-3/01ddc8f09813d1f8ba204835b2b4a16b/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/andrewuskov/.gradle/caches/transforms-3/7b38973d0b121d40922f524e10ec0beb/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/andrewuskov/.gradle/caches/transforms-3/7b38973d0b121d40922f524e10ec0beb/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/andrewuskov/.gradle/caches/transforms-3/05c8e0884861fc62be559805db55d651/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/andrewuskov/.gradle/caches/transforms-3/05c8e0884861fc62be559805db55d651/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/andrewuskov/.gradle/caches/transforms-3/1505e758d4b350ca8871ccb3cda40513/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/andrewuskov/.gradle/caches/transforms-3/1505e758d4b350ca8871ccb3cda40513/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /Users/andrewuskov/.gradle/caches/transforms-3/c9080091d4edfb6484a311d6c8480ea6/transformed/recyclerview-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /Users/andrewuskov/.gradle/caches/transforms-3/c9080091d4edfb6484a311d6c8480ea6/transformed/recyclerview-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/andrewuskov/.gradle/caches/transforms-3/e5263b8514edb734c9e880b5717bd0ea/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/andrewuskov/.gradle/caches/transforms-3/e5263b8514edb734c9e880b5717bd0ea/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/andrewuskov/.gradle/caches/transforms-3/a32fbee89382ce5fddc632ff416a67ee/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/andrewuskov/.gradle/caches/transforms-3/a32fbee89382ce5fddc632ff416a67ee/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/9293bde8b3e8026a0b867819dfff0b9c/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/9293bde8b3e8026a0b867819dfff0b9c/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/638dd7bbc28f3e838ab2594b090dbd11/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/638dd7bbc28f3e838ab2594b090dbd11/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.4.3] /Users/andrewuskov/.gradle/caches/transforms-3/eb173214714e9d4fec3840c3cf6c7e6d/transformed/media-1.4.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.4.3] /Users/andrewuskov/.gradle/caches/transforms-3/eb173214714e9d4fec3840c3cf6c7e6d/transformed/media-1.4.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /Users/andrewuskov/.gradle/caches/transforms-3/dda30403953c08419f2bf957743d4c78/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /Users/andrewuskov/.gradle/caches/transforms-3/dda30403953c08419f2bf957743d4c78/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/andrewuskov/.gradle/caches/transforms-3/bbe600931c8ab1516c1518930b2635f0/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/andrewuskov/.gradle/caches/transforms-3/bbe600931c8ab1516c1518930b2635f0/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/andrewuskov/.gradle/caches/transforms-3/cfd04dcb24a542790669526812529bf8/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/andrewuskov/.gradle/caches/transforms-3/cfd04dcb24a542790669526812529bf8/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/757630935b7698b951733ff17f0056d5/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/757630935b7698b951733ff17f0056d5/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/andrewuskov/.gradle/caches/transforms-3/ac4e2b91fc336887483077732561971f/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/andrewuskov/.gradle/caches/transforms-3/ac4e2b91fc336887483077732561971f/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/andrewuskov/.gradle/caches/transforms-3/365417f382951a0ca90d0ff48eba93bb/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/andrewuskov/.gradle/caches/transforms-3/365417f382951a0ca90d0ff48eba93bb/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/4b86c4ed97855012513e18cd31dcac18/transformed/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/4b86c4ed97855012513e18cd31dcac18/transformed/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /Users/andrewuskov/.gradle/caches/transforms-3/e35191e82609b7f03459e4a5759e1de5/transformed/jetified-gifdecoder-4.12.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /Users/andrewuskov/.gradle/caches/transforms-3/e35191e82609b7f03459e4a5759e1de5/transformed/jetified-gifdecoder-4.12.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] /Users/andrewuskov/.gradle/caches/transforms-3/8c3abf9c2c39508f323c519e37fbf8ec/transformed/exifinterface-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] /Users/andrewuskov/.gradle/caches/transforms-3/8c3abf9c2c39508f323c519e37fbf8ec/transformed/exifinterface-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/andrewuskov/.gradle/caches/transforms-3/edb60d25d4c2a3a9c13d1ce0d490ebc9/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/andrewuskov/.gradle/caches/transforms-3/edb60d25d4c2a3a9c13d1ce0d490ebc9/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/andrewuskov/.gradle/caches/transforms-3/cb5a0f2f817a22de646ea1dfbba743d8/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/andrewuskov/.gradle/caches/transforms-3/cb5a0f2f817a22de646ea1dfbba743d8/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/andrewuskov/.gradle/caches/transforms-3/2c6224b2a4e48a3ff57825e2652d259e/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/andrewuskov/.gradle/caches/transforms-3/2c6224b2a4e48a3ff57825e2652d259e/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/andrewuskov/.gradle/caches/transforms-3/998ad0a7a257f6efe06ec6c538d37fc0/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/andrewuskov/.gradle/caches/transforms-3/998ad0a7a257f6efe06ec6c538d37fc0/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/andrewuskov/.gradle/caches/transforms-3/9b7d832476160f3f2f4fba5329c408a7/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/andrewuskov/.gradle/caches/transforms-3/9b7d832476160f3f2f4fba5329c408a7/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/andrewuskov/.gradle/caches/transforms-3/b3eaaa42c86a5649f18f9f86a3865b60/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/andrewuskov/.gradle/caches/transforms-3/b3eaaa42c86a5649f18f9f86a3865b60/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/14ce78ce264b9d280d8f476ebd61f854/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/14ce78ce264b9d280d8f476ebd61f854/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-components:17.0.1] /Users/andrewuskov/.gradle/caches/transforms-3/4336f0f1e0ace3ed346149a673776e66/transformed/jetified-firebase-components-17.0.1/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:17.0.1] /Users/andrewuskov/.gradle/caches/transforms-3/4336f0f1e0ace3ed346149a673776e66/transformed/jetified-firebase-components-17.0.1/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] /Users/andrewuskov/.gradle/caches/transforms-3/f9b15fe79fdde69941c65fe568ca38ea/transformed/jetified-transport-api-3.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] /Users/andrewuskov/.gradle/caches/transforms-3/f9b15fe79fdde69941c65fe568ca38ea/transformed/jetified-transport-api-3.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /Users/andrewuskov/.gradle/caches/transforms-3/b74ef2dfd453d0796ca2f31912d880aa/transformed/jetified-firebase-encoders-json-18.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /Users/andrewuskov/.gradle/caches/transforms-3/b74ef2dfd453d0796ca2f31912d880aa/transformed/jetified-firebase-encoders-json-18.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/andrewuskov/.gradle/caches/transforms-3/25eadadd2707caea89b48fe3bf907650/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/andrewuskov/.gradle/caches/transforms-3/25eadadd2707caea89b48fe3bf907650/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/andrewuskov/.gradle/caches/transforms-3/f8038775b685852fbcbf6bf1d2f85802/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/andrewuskov/.gradle/caches/transforms-3/f8038775b685852fbcbf6bf1d2f85802/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/andrewuskov/.gradle/caches/transforms-3/163277a3975ad0374d07ab54177b68a9/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/andrewuskov/.gradle/caches/transforms-3/163277a3975ad0374d07ab54177b68a9/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.play:core:1.9.0] /Users/andrewuskov/.gradle/caches/transforms-3/038da3d706a8288db6bc9476c83cb95b/transformed/jetified-core-1.9.0/AndroidManifest.xml:4:3-70
+MERGED from [com.google.android.play:core:1.9.0] /Users/andrewuskov/.gradle/caches/transforms-3/038da3d706a8288db6bc9476c83cb95b/transformed/jetified-core-1.9.0/AndroidManifest.xml:4:3-70
+MERGED from [com.facebook.fresco:fbcore:2.6.0] /Users/andrewuskov/.gradle/caches/transforms-3/8d346a2f31cbcee48f7854cf05ee3f67/transformed/jetified-fbcore-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.6.0] /Users/andrewuskov/.gradle/caches/transforms-3/8d346a2f31cbcee48f7854cf05ee3f67/transformed/jetified-fbcore-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/8ddeee8168763a94a6d7c519407ce760/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/8ddeee8168763a94a6d7c519407ce760/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /Users/andrewuskov/.gradle/caches/transforms-3/960d27e844064305139c5b081af6ea29/transformed/jetified-protolite-well-known-types-18.0.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /Users/andrewuskov/.gradle/caches/transforms-3/960d27e844064305139c5b081af6ea29/transformed/jetified-protolite-well-known-types-18.0.0/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/andrewuskov/Documents/projects/osala-app-develop/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/andrewuskov/Documents/projects/osala-app-develop/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/andrewuskov/Documents/projects/osala-app-develop/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/andrewuskov/Documents/projects/osala-app-develop/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/andrewuskov/Documents/projects/osala-app-develop/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/andrewuskov/Documents/projects/osala-app-develop/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/andrewuskov/Documents/projects/osala-app-develop/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/andrewuskov/Documents/projects/osala-app-develop/android/app/src/debug/AndroidManifest.xml:5:22-75
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/andrewuskov/Documents/projects/osala-app-develop/android/app/src/debug/AndroidManifest.xml:11:9-111
+	android:exported
+		ADDED from /Users/andrewuskov/Documents/projects/osala-app-develop/android/app/src/debug/AndroidManifest.xml:11:84-108
+	android:name
+		ADDED from /Users/andrewuskov/Documents/projects/osala-app-develop/android/app/src/debug/AndroidManifest.xml:11:19-83
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.facebook.flipper:flipper:0.125.0] /Users/andrewuskov/.gradle/caches/transforms-3/93996430493a3ddaa87412e1eacd766e/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:16:5-76
+MERGED from [:react-native-community_netinfo] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-76
+MERGED from [:react-native-community_netinfo] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-76
+	android:name
+		ADDED from [com.facebook.flipper:flipper:0.125.0] /Users/andrewuskov/.gradle/caches/transforms-3/93996430493a3ddaa87412e1eacd766e/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:16:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:react-native-community_netinfo] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-79
+MERGED from [:react-native-firebase_messaging] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-79
+MERGED from [:react-native-firebase_messaging] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-79
+MERGED from [com.google.firebase:firebase-firestore:24.4.1] /Users/andrewuskov/.gradle/caches/transforms-3/b1b45b774f8f919982b7be0797c73c93/transformed/jetified-firebase-firestore-24.4.1/AndroidManifest.xml:12:5-79
+MERGED from [com.google.firebase:firebase-firestore:24.4.1] /Users/andrewuskov/.gradle/caches/transforms-3/b1b45b774f8f919982b7be0797c73c93/transformed/jetified-firebase-firestore-24.4.1/AndroidManifest.xml:12:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.1] /Users/andrewuskov/.gradle/caches/transforms-3/ea9a633fee145a3968713d72bd9303fa/transformed/jetified-exoplayer-core-2.18.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.1] /Users/andrewuskov/.gradle/caches/transforms-3/ea9a633fee145a3968713d72bd9303fa/transformed/jetified-exoplayer-core-2.18.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.1] /Users/andrewuskov/.gradle/caches/transforms-3/78513f5a87dd943a7cc2d257d9442f43/transformed/jetified-exoplayer-common-2.18.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.1] /Users/andrewuskov/.gradle/caches/transforms-3/78513f5a87dd943a7cc2d257d9442f43/transformed/jetified-exoplayer-common-2.18.1/AndroidManifest.xml:24:5-79
+MERGED from [io.grpc:grpc-android:1.50.2] /Users/andrewuskov/.gradle/caches/transforms-3/0d84a53e879d2d756f285c9b42c468bf/transformed/jetified-grpc-android-1.50.2/AndroidManifest.xml:9:5-79
+MERGED from [io.grpc:grpc-android:1.50.2] /Users/andrewuskov/.gradle/caches/transforms-3/0d84a53e879d2d756f285c9b42c468bf/transformed/jetified-grpc-android-1.50.2/AndroidManifest.xml:9:5-79
+MERGED from [com.google.firebase:firebase-messaging:23.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/3cbd6b37cd995c9a23d283dae8230d79/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-messaging:23.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/3cbd6b37cd995c9a23d283dae8230d79/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/andrewuskov/.gradle/caches/transforms-3/7743c2a9ae6b3cca0bc58ef27399e3fa/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/andrewuskov/.gradle/caches/transforms-3/7743c2a9ae6b3cca0bc58ef27399e3fa/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/andrewuskov/.gradle/caches/transforms-3/27bd8468e23a6d82f6f4061136a013f6/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/andrewuskov/.gradle/caches/transforms-3/27bd8468e23a6d82f6f4061136a013f6/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-installations:17.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/27488b6419c8f76ddf6f7c07f536e4e5/transformed/jetified-firebase-installations-17.1.0/AndroidManifest.xml:9:5-79
+MERGED from [com.google.firebase:firebase-installations:17.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/27488b6419c8f76ddf6f7c07f536e4e5/transformed/jetified-firebase-installations-17.1.0/AndroidManifest.xml:9:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/andrewuskov/.gradle/caches/transforms-3/79d45b1ce75fd73d2c6ac7c9c3e282be/transformed/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/andrewuskov/.gradle/caches/transforms-3/79d45b1ce75fd73d2c6ac7c9c3e282be/transformed/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from [:react-native-community_netinfo] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:react-native-firebase_messaging] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-68
+MERGED from [com.google.firebase:firebase-messaging:23.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/3cbd6b37cd995c9a23d283dae8230d79/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:26:5-68
+MERGED from [com.google.firebase:firebase-messaging:23.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/3cbd6b37cd995c9a23d283dae8230d79/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:26:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/andrewuskov/.gradle/caches/transforms-3/79d45b1ce75fd73d2c6ac7c9c3e282be/transformed/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/andrewuskov/.gradle/caches/transforms-3/79d45b1ce75fd73d2c6ac7c9c3e282be/transformed/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:9:5-68
+	android:name
+		ADDED from [:react-native-firebase_messaging] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:22-65
+service#io.invertase.firebase.messaging.ReactNativeFirebaseMessagingHeadlessService
+ADDED from [:react-native-firebase_messaging] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:9-16:40
+	android:exported
+		ADDED from [:react-native-firebase_messaging] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:16:13-37
+	android:name
+		ADDED from [:react-native-firebase_messaging] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:13-103
+service#io.invertase.firebase.messaging.ReactNativeFirebaseMessagingService
+ADDED from [:react-native-firebase_messaging] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:17:9-23:19
+	android:exported
+		ADDED from [:react-native-firebase_messaging] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:19:13-37
+	android:name
+		ADDED from [:react-native-firebase_messaging] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:18:13-95
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [:react-native-firebase_messaging] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:20:13-22:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [:react-native-firebase_messaging] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:21:17-78
+	android:name
+		ADDED from [:react-native-firebase_messaging] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:21:25-75
+receiver#io.invertase.firebase.messaging.ReactNativeFirebaseMessagingReceiver
+ADDED from [:react-native-firebase_messaging] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:25:9-32:20
+	android:exported
+		ADDED from [:react-native-firebase_messaging] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [:react-native-firebase_messaging] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:28:13-73
+	android:name
+		ADDED from [:react-native-firebase_messaging] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:26:13-96
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [:react-native-firebase_messaging] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:29:13-31:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [:react-native-firebase_messaging] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:30:17-81
+	android:name
+		ADDED from [:react-native-firebase_messaging] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:30:25-78
+meta-data#firebase_messaging_auto_init_enabled
+ADDED from [:react-native-firebase_messaging] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:34:9-36:36
+	android:value
+		ADDED from [:react-native-firebase_messaging] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:36:13-33
+	android:name
+		ADDED from [:react-native-firebase_messaging] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:35:13-64
+meta-data#com.google.firebase.messaging.default_notification_channel_id
+ADDED from [:react-native-firebase_messaging] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:37:9-39:32
+	android:value
+		ADDED from [:react-native-firebase_messaging] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:39:13-29
+	android:name
+		ADDED from [:react-native-firebase_messaging] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:38:13-89
+meta-data#com.google.firebase.messaging.default_notification_color
+ADDED from [:react-native-firebase_messaging] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:40:9-42:47
+	android:resource
+		ADDED from [:react-native-firebase_messaging] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:42:13-44
+	android:name
+		ADDED from [:react-native-firebase_messaging] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:41:13-84
+meta-data#app_data_collection_default_enabled
+ADDED from [:react-native-firebase_app] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:9-13:36
+	android:value
+		ADDED from [:react-native-firebase_app] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-33
+	android:name
+		ADDED from [:react-native-firebase_app] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-63
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:react-native-firebase_app] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:9-23:19
+MERGED from [com.google.firebase:firebase-firestore:24.4.1] /Users/andrewuskov/.gradle/caches/transforms-3/b1b45b774f8f919982b7be0797c73c93/transformed/jetified-firebase-firestore-24.4.1/AndroidManifest.xml:16:9-22:19
+MERGED from [com.google.firebase:firebase-firestore:24.4.1] /Users/andrewuskov/.gradle/caches/transforms-3/b1b45b774f8f919982b7be0797c73c93/transformed/jetified-firebase-firestore-24.4.1/AndroidManifest.xml:16:9-22:19
+MERGED from [com.google.firebase:firebase-messaging:23.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/3cbd6b37cd995c9a23d283dae8230d79/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:52:9-58:19
+MERGED from [com.google.firebase:firebase-messaging:23.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/3cbd6b37cd995c9a23d283dae8230d79/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:52:9-58:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.7] /Users/andrewuskov/.gradle/caches/transforms-3/194040efc3fdce71af80767f8a6e5ec2/transformed/jetified-firebase-datatransport-18.1.7/AndroidManifest.xml:24:9-30:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.7] /Users/andrewuskov/.gradle/caches/transforms-3/194040efc3fdce71af80767f8a6e5ec2/transformed/jetified-firebase-datatransport-18.1.7/AndroidManifest.xml:24:9-30:19
+MERGED from [com.google.firebase:firebase-installations:17.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/27488b6419c8f76ddf6f7c07f536e4e5/transformed/jetified-firebase-installations-17.1.0/AndroidManifest.xml:14:9-20:19
+MERGED from [com.google.firebase:firebase-installations:17.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/27488b6419c8f76ddf6f7c07f536e4e5/transformed/jetified-firebase-installations-17.1.0/AndroidManifest.xml:14:9-20:19
+MERGED from [com.google.firebase:firebase-common:20.2.0] /Users/andrewuskov/.gradle/caches/transforms-3/061b8bff9bf1f53d1bfab2c424615661/transformed/jetified-firebase-common-20.2.0/AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:20.2.0] /Users/andrewuskov/.gradle/caches/transforms-3/061b8bff9bf1f53d1bfab2c424615661/transformed/jetified-firebase-common-20.2.0/AndroidManifest.xml:32:9-36:35
+	android:exported
+		ADDED from [:react-native-firebase_app] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:18:13-37
+	tools:targetApi
+		ADDED from [:react-native-firebase_app] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:19:13-32
+	android:directBootAware
+		ADDED from [:react-native-firebase_app] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:17:13-43
+	android:name
+		ADDED from [:react-native-firebase_app] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:16:13-84
+meta-data#com.google.firebase.components:io.invertase.firebase.app.ReactNativeFirebaseAppRegistrar
+ADDED from [:react-native-firebase_app] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [:react-native-firebase_app] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [:react-native-firebase_app] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:21:17-120
+provider#io.invertase.firebase.app.ReactNativeFirebaseAppInitProvider
+ADDED from [:react-native-firebase_app] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:25:9-29:38
+	android:authorities
+		ADDED from [:react-native-firebase_app] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:27:13-86
+	android:exported
+		ADDED from [:react-native-firebase_app] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:28:13-37
+	android:initOrder
+		ADDED from [:react-native-firebase_app] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:29:13-35
+	android:name
+		ADDED from [:react-native-firebase_app] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:26:13-88
+queries
+ADDED from [:react-native-image-crop-picker] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-13:15
+intent#action:name:android.media.action.IMAGE_CAPTURE
+ADDED from [:react-native-image-crop-picker] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-12:18
+action#android.media.action.IMAGE_CAPTURE
+ADDED from [:react-native-image-crop-picker] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-73
+	android:name
+		ADDED from [:react-native-image-crop-picker] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:21-70
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:react-native-image-crop-picker] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from [:react-native-image-crop-picker] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:22-78
+provider#androidx.core.content.FileProvider
+ADDED from [:react-native-image-crop-picker] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:18:9-26:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-crop-picker] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:22:13-47
+	android:authorities
+		ADDED from [:react-native-image-crop-picker] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:20:13-60
+	android:exported
+		ADDED from [:react-native-image-crop-picker] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:21:13-37
+	android:name
+		ADDED from [:react-native-image-crop-picker] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:19:13-62
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-image-crop-picker] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:23:13-25:58
+	android:resource
+		ADDED from [:react-native-image-crop-picker] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:25:17-55
+	android:name
+		ADDED from [:react-native-image-crop-picker] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:24:17-67
+activity#com.yalantis.ucrop.UCropActivity
+ADDED from [:react-native-image-crop-picker] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:28:9-30:72
+	android:theme
+		ADDED from [:react-native-image-crop-picker] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:30:13-69
+	android:name
+		ADDED from [:react-native-image-crop-picker] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:29:13-60
+provider#com.reactnativecommunity.webview.RNCWebViewFileProvider
+ADDED from [:react-native-webview] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-18:20
+	android:grantUriPermissions
+		ADDED from [:react-native-webview] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-47
+	android:authorities
+		ADDED from [:react-native-webview] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-64
+	android:exported
+		ADDED from [:react-native-webview] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-37
+	android:name
+		ADDED from [:react-native-webview] /Users/andrewuskov/Documents/projects/osala-app-develop/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-83
+uses-permission#com.google.android.gms.permission.AD_ID
+ADDED from [com.google.android.gms:play-services-ads-identifier:18.0.1] /Users/andrewuskov/.gradle/caches/transforms-3/c504c7e14dfe89c7efaaa438ab9852e3/transformed/jetified-play-services-ads-identifier-18.0.1/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-identifier:18.0.1] /Users/andrewuskov/.gradle/caches/transforms-3/c504c7e14dfe89c7efaaa438ab9852e3/transformed/jetified-play-services-ads-identifier-18.0.1/AndroidManifest.xml:23:22-76
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:24.4.1] /Users/andrewuskov/.gradle/caches/transforms-3/b1b45b774f8f919982b7be0797c73c93/transformed/jetified-firebase-firestore-24.4.1/AndroidManifest.xml:19:13-21:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:24.4.1] /Users/andrewuskov/.gradle/caches/transforms-3/b1b45b774f8f919982b7be0797c73c93/transformed/jetified-firebase-firestore-24.4.1/AndroidManifest.xml:21:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:24.4.1] /Users/andrewuskov/.gradle/caches/transforms-3/b1b45b774f8f919982b7be0797c73c93/transformed/jetified-firebase-firestore-24.4.1/AndroidManifest.xml:20:17-111
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from [com.google.firebase:firebase-messaging:23.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/3cbd6b37cd995c9a23d283dae8230d79/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:25:5-77
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/3cbd6b37cd995c9a23d283dae8230d79/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:25:22-74
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:23.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/3cbd6b37cd995c9a23d283dae8230d79/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:28:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/andrewuskov/.gradle/caches/transforms-3/79d45b1ce75fd73d2c6ac7c9c3e282be/transformed/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:11:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/andrewuskov/.gradle/caches/transforms-3/79d45b1ce75fd73d2c6ac7c9c3e282be/transformed/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:11:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/3cbd6b37cd995c9a23d283dae8230d79/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:28:22-79
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-messaging:23.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/3cbd6b37cd995c9a23d283dae8230d79/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:31:9-38:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:23.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/3cbd6b37cd995c9a23d283dae8230d79/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:33:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-messaging:23.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/3cbd6b37cd995c9a23d283dae8230d79/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:34:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/3cbd6b37cd995c9a23d283dae8230d79/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:32:13-78
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:23.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/3cbd6b37cd995c9a23d283dae8230d79/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:44:9-51:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:23.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/3cbd6b37cd995c9a23d283dae8230d79/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:47:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-messaging:23.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/3cbd6b37cd995c9a23d283dae8230d79/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:46:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/3cbd6b37cd995c9a23d283dae8230d79/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:45:13-82
+meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar
+ADDED from [com.google.firebase:firebase-messaging:23.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/3cbd6b37cd995c9a23d283dae8230d79/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:55:13-57:85
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging:23.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/3cbd6b37cd995c9a23d283dae8230d79/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:57:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/3cbd6b37cd995c9a23d283dae8230d79/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:56:17-119
+meta-data#com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar
+ADDED from [com.google.firebase:firebase-datatransport:18.1.7] /Users/andrewuskov/.gradle/caches/transforms-3/194040efc3fdce71af80767f8a6e5ec2/transformed/jetified-firebase-datatransport-18.1.7/AndroidManifest.xml:27:13-29:85
+	android:value
+		ADDED from [com.google.firebase:firebase-datatransport:18.1.7] /Users/andrewuskov/.gradle/caches/transforms-3/194040efc3fdce71af80767f8a6e5ec2/transformed/jetified-firebase-datatransport-18.1.7/AndroidManifest.xml:29:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-datatransport:18.1.7] /Users/andrewuskov/.gradle/caches/transforms-3/194040efc3fdce71af80767f8a6e5ec2/transformed/jetified-firebase-datatransport-18.1.7/AndroidManifest.xml:28:17-115
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/andrewuskov/.gradle/caches/transforms-3/7743c2a9ae6b3cca0bc58ef27399e3fa/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/andrewuskov/.gradle/caches/transforms-3/27bd8468e23a6d82f6f4061136a013f6/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/andrewuskov/.gradle/caches/transforms-3/27bd8468e23a6d82f6f4061136a013f6/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/andrewuskov/.gradle/caches/transforms-3/7743c2a9ae6b3cca0bc58ef27399e3fa/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/andrewuskov/.gradle/caches/transforms-3/7743c2a9ae6b3cca0bc58ef27399e3fa/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:29:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/andrewuskov/.gradle/caches/transforms-3/7743c2a9ae6b3cca0bc58ef27399e3fa/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:31:13-33:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/andrewuskov/.gradle/caches/transforms-3/7743c2a9ae6b3cca0bc58ef27399e3fa/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:33:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/andrewuskov/.gradle/caches/transforms-3/7743c2a9ae6b3cca0bc58ef27399e3fa/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:32:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/andrewuskov/.gradle/caches/transforms-3/27bd8468e23a6d82f6f4061136a013f6/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/andrewuskov/.gradle/caches/transforms-3/27bd8468e23a6d82f6f4061136a013f6/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/andrewuskov/.gradle/caches/transforms-3/27bd8468e23a6d82f6f4061136a013f6/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/andrewuskov/.gradle/caches/transforms-3/27bd8468e23a6d82f6f4061136a013f6/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/andrewuskov/.gradle/caches/transforms-3/27bd8468e23a6d82f6f4061136a013f6/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/andrewuskov/.gradle/caches/transforms-3/27bd8468e23a6d82f6f4061136a013f6/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/andrewuskov/.gradle/caches/transforms-3/27bd8468e23a6d82f6f4061136a013f6/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:33:13-132
+meta-data#com.bumptech.glide.integration.okhttp3.OkHttpGlideModule
+ADDED from [com.github.bumptech.glide:okhttp3-integration:4.12.0] /Users/andrewuskov/.gradle/caches/transforms-3/29ec02cdf220c19a59669d1cfa37b91f/transformed/jetified-okhttp3-integration-4.12.0/AndroidManifest.xml:11:9-13:43
+	android:value
+		ADDED from [com.github.bumptech.glide:okhttp3-integration:4.12.0] /Users/andrewuskov/.gradle/caches/transforms-3/29ec02cdf220c19a59669d1cfa37b91f/transformed/jetified-okhttp3-integration-4.12.0/AndroidManifest.xml:13:13-40
+	android:name
+		ADDED from [com.github.bumptech.glide:okhttp3-integration:4.12.0] /Users/andrewuskov/.gradle/caches/transforms-3/29ec02cdf220c19a59669d1cfa37b91f/transformed/jetified-okhttp3-integration-4.12.0/AndroidManifest.xml:12:13-84
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:20.3.0] /Users/andrewuskov/.gradle/caches/transforms-3/17831ecc60a27bf455626f00b7b9f743/transformed/jetified-play-services-auth-20.3.0/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:20.3.0] /Users/andrewuskov/.gradle/caches/transforms-3/17831ecc60a27bf455626f00b7b9f743/transformed/jetified-play-services-auth-20.3.0/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.3.0] /Users/andrewuskov/.gradle/caches/transforms-3/17831ecc60a27bf455626f00b7b9f743/transformed/jetified-play-services-auth-20.3.0/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:20.3.0] /Users/andrewuskov/.gradle/caches/transforms-3/17831ecc60a27bf455626f00b7b9f743/transformed/jetified-play-services-auth-20.3.0/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.3.0] /Users/andrewuskov/.gradle/caches/transforms-3/17831ecc60a27bf455626f00b7b9f743/transformed/jetified-play-services-auth-20.3.0/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:20.3.0] /Users/andrewuskov/.gradle/caches/transforms-3/17831ecc60a27bf455626f00b7b9f743/transformed/jetified-play-services-auth-20.3.0/AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.3.0] /Users/andrewuskov/.gradle/caches/transforms-3/17831ecc60a27bf455626f00b7b9f743/transformed/jetified-play-services-auth-20.3.0/AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:20.3.0] /Users/andrewuskov/.gradle/caches/transforms-3/17831ecc60a27bf455626f00b7b9f743/transformed/jetified-play-services-auth-20.3.0/AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:20.3.0] /Users/andrewuskov/.gradle/caches/transforms-3/17831ecc60a27bf455626f00b7b9f743/transformed/jetified-play-services-auth-20.3.0/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.3.0] /Users/andrewuskov/.gradle/caches/transforms-3/17831ecc60a27bf455626f00b7b9f743/transformed/jetified-play-services-auth-20.3.0/AndroidManifest.xml:34:13-89
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/andrewuskov/.gradle/caches/transforms-3/f82e43eb19c65a41979adc5cce0d447d/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/andrewuskov/.gradle/caches/transforms-3/f82e43eb19c65a41979adc5cce0d447d/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/andrewuskov/.gradle/caches/transforms-3/f82e43eb19c65a41979adc5cce0d447d/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/andrewuskov/.gradle/caches/transforms-3/f82e43eb19c65a41979adc5cce0d447d/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:19-85
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:17.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/27488b6419c8f76ddf6f7c07f536e4e5/transformed/jetified-firebase-installations-17.1.0/AndroidManifest.xml:17:13-19:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:17.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/27488b6419c8f76ddf6f7c07f536e4e5/transformed/jetified-firebase-installations-17.1.0/AndroidManifest.xml:19:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:17.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/27488b6419c8f76ddf6f7c07f536e4e5/transformed/jetified-firebase-installations-17.1.0/AndroidManifest.xml:18:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.2.0] /Users/andrewuskov/.gradle/caches/transforms-3/061b8bff9bf1f53d1bfab2c424615661/transformed/jetified-firebase-common-20.2.0/AndroidManifest.xml:25:9-30:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.2.0] /Users/andrewuskov/.gradle/caches/transforms-3/061b8bff9bf1f53d1bfab2c424615661/transformed/jetified-firebase-common-20.2.0/AndroidManifest.xml:27:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.2.0] /Users/andrewuskov/.gradle/caches/transforms-3/061b8bff9bf1f53d1bfab2c424615661/transformed/jetified-firebase-common-20.2.0/AndroidManifest.xml:29:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.2.0] /Users/andrewuskov/.gradle/caches/transforms-3/061b8bff9bf1f53d1bfab2c424615661/transformed/jetified-firebase-common-20.2.0/AndroidManifest.xml:28:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.2.0] /Users/andrewuskov/.gradle/caches/transforms-3/061b8bff9bf1f53d1bfab2c424615661/transformed/jetified-firebase-common-20.2.0/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.2.0] /Users/andrewuskov/.gradle/caches/transforms-3/061b8bff9bf1f53d1bfab2c424615661/transformed/jetified-firebase-common-20.2.0/AndroidManifest.xml:26:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/730ddebbf5733c6fe219b00b1f1441fa/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/730ddebbf5733c6fe219b00b1f1441fa/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] /Users/andrewuskov/.gradle/caches/transforms-3/730ddebbf5733c6fe219b00b1f1441fa/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:22:13-58
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [com.google.android.play:core:1.9.0] /Users/andrewuskov/.gradle/caches/transforms-3/038da3d706a8288db6bc9476c83cb95b/transformed/jetified-core-1.9.0/AndroidManifest.xml:8:3-74
+	android:name
+		ADDED from [com.google.android.play:core:1.9.0] /Users/andrewuskov/.gradle/caches/transforms-3/038da3d706a8288db6bc9476c83cb95b/transformed/jetified-core-1.9.0/AndroidManifest.xml:8:20-72
+activity#com.google.android.play.core.missingsplits.PlayCoreMissingSplitsActivity
+ADDED from [com.google.android.play:core:1.9.0] /Users/andrewuskov/.gradle/caches/transforms-3/038da3d706a8288db6bc9476c83cb95b/transformed/jetified-core-1.9.0/AndroidManifest.xml:12:5-271
+	android:process
+		ADDED from [com.google.android.play:core:1.9.0] /Users/andrewuskov/.gradle/caches/transforms-3/038da3d706a8288db6bc9476c83cb95b/transformed/jetified-core-1.9.0/AndroidManifest.xml:12:152-203
+	android:enabled
+		ADDED from [com.google.android.play:core:1.9.0] /Users/andrewuskov/.gradle/caches/transforms-3/038da3d706a8288db6bc9476c83cb95b/transformed/jetified-core-1.9.0/AndroidManifest.xml:12:103-126
+	android:stateNotNeeded
+		ADDED from [com.google.android.play:core:1.9.0] /Users/andrewuskov/.gradle/caches/transforms-3/038da3d706a8288db6bc9476c83cb95b/transformed/jetified-core-1.9.0/AndroidManifest.xml:12:240-269
+	android:launchMode
+		ADDED from [com.google.android.play:core:1.9.0] /Users/andrewuskov/.gradle/caches/transforms-3/038da3d706a8288db6bc9476c83cb95b/transformed/jetified-core-1.9.0/AndroidManifest.xml:12:204-239
+	android:exported
+		ADDED from [com.google.android.play:core:1.9.0] /Users/andrewuskov/.gradle/caches/transforms-3/038da3d706a8288db6bc9476c83cb95b/transformed/jetified-core-1.9.0/AndroidManifest.xml:12:127-151
+	android:name
+		ADDED from [com.google.android.play:core:1.9.0] /Users/andrewuskov/.gradle/caches/transforms-3/038da3d706a8288db6bc9476c83cb95b/transformed/jetified-core-1.9.0/AndroidManifest.xml:12:15-102
+activity#com.google.android.play.core.common.PlayCoreDialogWrapperActivity
+ADDED from [com.google.android.play:core:1.9.0] /Users/andrewuskov/.gradle/caches/transforms-3/038da3d706a8288db6bc9476c83cb95b/transformed/jetified-core-1.9.0/AndroidManifest.xml:13:5-226
+	android:enabled
+		ADDED from [com.google.android.play:core:1.9.0] /Users/andrewuskov/.gradle/caches/transforms-3/038da3d706a8288db6bc9476c83cb95b/transformed/jetified-core-1.9.0/AndroidManifest.xml:13:96-119
+	android:stateNotNeeded
+		ADDED from [com.google.android.play:core:1.9.0] /Users/andrewuskov/.gradle/caches/transforms-3/038da3d706a8288db6bc9476c83cb95b/transformed/jetified-core-1.9.0/AndroidManifest.xml:13:145-174
+	android:exported
+		ADDED from [com.google.android.play:core:1.9.0] /Users/andrewuskov/.gradle/caches/transforms-3/038da3d706a8288db6bc9476c83cb95b/transformed/jetified-core-1.9.0/AndroidManifest.xml:13:120-144
+	android:theme
+		ADDED from [com.google.android.play:core:1.9.0] /Users/andrewuskov/.gradle/caches/transforms-3/038da3d706a8288db6bc9476c83cb95b/transformed/jetified-core-1.9.0/AndroidManifest.xml:13:175-224
+	android:name
+		ADDED from [com.google.android.play:core:1.9.0] /Users/andrewuskov/.gradle/caches/transforms-3/038da3d706a8288db6bc9476c83cb95b/transformed/jetified-core-1.9.0/AndroidManifest.xml:13:15-95
+service#com.google.android.play.core.assetpacks.AssetPackExtractionService
+ADDED from [com.google.android.play:core:1.9.0] /Users/andrewuskov/.gradle/caches/transforms-3/038da3d706a8288db6bc9476c83cb95b/transformed/jetified-core-1.9.0/AndroidManifest.xml:16:5-145
+	android:enabled
+		ADDED from [com.google.android.play:core:1.9.0] /Users/andrewuskov/.gradle/caches/transforms-3/038da3d706a8288db6bc9476c83cb95b/transformed/jetified-core-1.9.0/AndroidManifest.xml:16:96-119
+	android:exported
+		ADDED from [com.google.android.play:core:1.9.0] /Users/andrewuskov/.gradle/caches/transforms-3/038da3d706a8288db6bc9476c83cb95b/transformed/jetified-core-1.9.0/AndroidManifest.xml:16:120-143
+	android:name
+		ADDED from [com.google.android.play:core:1.9.0] /Users/andrewuskov/.gradle/caches/transforms-3/038da3d706a8288db6bc9476c83cb95b/transformed/jetified-core-1.9.0/AndroidManifest.xml:16:14-95

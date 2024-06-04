@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">615050137948-p2tagma5t5h23lbofgrgdsl71njfajua.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">615050137948</string>
+    <string name="google_api_key" translatable="false">AIzaSyCGfhv8flw0iCfVz4_FUpWez3hiuwoXlVo</string>
+    <string name="google_app_id" translatable="false">1:615050137948:android:30d69321bc3678b016f199</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCGfhv8flw0iCfVz4_FUpWez3hiuwoXlVo</string>
+    <string name="google_storage_bucket" translatable="false">orange-salamander.appspot.com</string>
+    <string name="project_id" translatable="false">orange-salamander</string>
+</resources>

@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "320079817984",
+    "project_id": "orange-salamander-19851",
+    "storage_bucket": "orange-salamander-19851.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320079817984:android:0ffdc4202608eddd53d7e5",
+        "android_client_info": {
+          "package_name": "com.osala"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320079817984-bh5sjbb5q8l2dk46s128tlagp7jd1473.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfucJlijNJRJmyfsHmdw9KaNaldQxzL1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320079817984-bh5sjbb5q8l2dk46s128tlagp7jd1473.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "320079817984-62o7pif262e0iklecd138gf88722ialg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.osala"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
